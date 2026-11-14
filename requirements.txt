@@ -1,0 +1,6 @@
+flask
+nba_api
+pandas
+requests
+gunicorn
+tzdata
